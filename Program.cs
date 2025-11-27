@@ -6,7 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
 
+            Console.WriteLine("anda por favor");
 
+            Console.WriteLine("anda por favor");
 
             Console.WriteLine("hola");
         }
