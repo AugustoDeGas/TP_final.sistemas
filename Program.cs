@@ -9,6 +9,8 @@
             Console.WriteLine("anda por favor");
 
             Console.WriteLine("anda por favor");
+            Console.WriteLine("anda por favor");
+
 
             Console.WriteLine("hola");
         }
